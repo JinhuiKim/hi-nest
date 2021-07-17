@@ -18,6 +18,7 @@ export class MoviesController {
   constructor(private readonly moviesService: MoviesService) {}
 
   @Get()
+  // getAll(@Req() req, @Res() res): Movie[] { //fastify 쓸 수도 있으므로 추천하지 않음
   getAll(): Movie[] {
     return this.moviesService.getAll();
   }
