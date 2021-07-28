@@ -1,3 +1,22 @@
+# hi-nest
+
+### NestJS로 API 만들기
+
+Enterprise Server Side Applications
+
+1. NestJS Architecture
+2. REST API
+3. Unit Testing, End to End testing
+
+참고
+
+- [Nomad Coders Curriculum](https://nomadcoders.co/nestjs-fundamentals/lobby) (LAST UPDATED, 2020.09)
+- [npmjs.com (@nestjs/core)](https://www.npmjs.com/package/@nestjs/core)
+- [Github (nestjs/nest)](https://github.com/nestjs/nest)
+- [expressjs.com](https://expressjs.com/)
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
